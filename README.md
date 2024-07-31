@@ -41,7 +41,7 @@ Other steps used in the data analysis:
 <img title="Sales Forecasting Visualizations" src="Sales Forecasting Visualizations.png" height="800">
 
 ## Analysis
-Correlation and Ridge regression analyses were conducted to identify relationships between sales and other variables. 
+This project mainly used predictive and exploratory data analyses to see the relationships between variables and to predict future sales. Correlation and Ridge regression analyses were conducted to identify relationships between sales and other variables. 
 
 <img title="Correlation Matrix" src="correlation-matrix.png" height="550">
 
